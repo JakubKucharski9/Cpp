@@ -1,0 +1,2 @@
+znak=%
+ilosc=55
